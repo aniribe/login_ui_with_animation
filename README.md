@@ -1,16 +1,16 @@
 # login_ui_with_animation
 
-A new Flutter application.
+A Login page with with animated elements.
 
-## Getting Started
+For animation was used a third-party libraries.
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/aniribe/login_ui_with_animation/blob/main/assets/images/app_screenshot.jpg" height=500px>
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies used:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+• Flutter
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+• Dart
+
+• Simple animation library
+
